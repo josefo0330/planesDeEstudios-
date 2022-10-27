@@ -1,0 +1,4386 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 1 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+PRIMER AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22472 
+NCES 0001 
+LENGUAJE Y COMUNICACION EN ESPAÑOL 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+08961 
+03 
+01 
+02 
+0005 
+08962 
+08961 
+08962 
+21008 
+22472 
+22472 
+22472 
+22472 
+22472 
+22472 
+22472 
+22472 
+22472 
+22472 
+22472 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+15 
+02 
+04 
+04 
+06 
+06 
+16 
+16 
+17 
+17 
+18 
+18 
+0005 
+0006 
+0006 
+0001 
+0007 
+0005 
+0006 
+0005 
+0006 
+0001 
+0002 
+0001 
+0002 
+0001 
+0002 
+22475 
+NCIN 0004 
+LENGUAJE Y COMUNICACION EN INGLES 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+03528 
+03 
+01 
+02 
+0005 
+03529 
+03528 
+03529 
+22475 
+22475 
+22475 
+22475 
+22475 
+21014 
+22475 
+22475 
+22475 
+22475 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+04 
+04 
+06 
+06 
+15 
+16 
+16 
+17 
+17 
+0005 
+0006 
+0006 
+0007 
+0005 
+0006 
+0005 
+0006 
+0001 
+0001 
+0002 
+0001 
+0002 
+
+----------------------------------------------------- Page 2 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 2 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+PRIMER AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22476 
+NCIF 0005 
+INFORMATICA Y REDES DE APRENDIZAJE 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+20995 
+03 
+01 
+15 
+0001 
+25100 
+25100 
+22476 
+22476 
+22476 
+22476 
+22476 
+22476 
+22476 
+22476 
+22476 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+18 
+18 
+02 
+04 
+04 
+06 
+06 
+16 
+16 
+17 
+17 
+0001 
+0002 
+0007 
+0005 
+0006 
+0005 
+0006 
+0001 
+0002 
+0001 
+0002 
+22482 
+NCMA 0011 
+MATEMATICAS 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+08799 
+03 
+01 
+02 
+0005 
+08853 
+08799 
+08853 
+22482 
+22482 
+22482 
+22482 
+22482 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+16 
+16 
+17 
+17 
+0005 
+0006 
+0006 
+0007 
+0001 
+0002 
+0001 
+0002 
+23687 
+DIS 
+1111 
+DISEÑO ARQUITECTONICO I 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+00040 
+03 
+01 
+02 
+0005 
+00040 
+23687 
+23687 
+23687 
+23687 
+23687 
+05736 
+05736 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+16 
+16 
+17 
+17 
+09 
+09 
+0006 
+0007 
+0001 
+0002 
+0002 
+0001 
+0001 
+0002 
+
+----------------------------------------------------- Page 3 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 3 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+PRIMER AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23688 
+ART 
+1102 
+DIBUJO MANUAL Y DIGITAL 
+2 
+1 
+3 
+0 
+0 
+FUNDAMENTAL 
+08798 
+03 
+01 
+02 
+0005 
+08851 
+08798 
+08851 
+20991 
+23688 
+23688 
+23688 
+23688 
+23688 
+23688 
+23688 
+23688 
+23688 
+23688 
+23688 
+05496 
+05496 
+05497 
+05497 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+15 
+02 
+04 
+04 
+06 
+06 
+16 
+16 
+17 
+17 
+18 
+18 
+04 
+04 
+04 
+04 
+0005 
+0006 
+0006 
+0001 
+0007 
+0006 
+0005 
+0005 
+0006 
+0001 
+0002 
+0002 
+0001 
+0001 
+0002 
+0003 
+0004 
+0003 
+0004 
+27405 
+HIST 165 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+27405 
+03 
+01 
+02 
+0007 
+27405 
+27405 
+27405 
+27405 
+27405 
+27405 
+27405 
+27405 
+27405 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+04 
+04 
+06 
+06 
+15 
+16 
+16 
+17 
+17 
+0005 
+0006 
+0005 
+0006 
+0001 
+0001 
+0002 
+0001 
+0002 
+
+----------------------------------------------------- Page 4 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 4 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+PRIMER AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22473 
+NCHI 0002 
+HISTORIA DE PANAMA EN EL MUNDO GLOBAL 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+20406 
+03 
+01 
+15 
+0001 
+22473 
+22473 
+22473 
+22473 
+22473 
+22473 
+22473 
+22473 
+22473 
+22473 
+22473 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+04 
+04 
+06 
+06 
+16 
+16 
+17 
+17 
+18 
+18 
+0007 
+0005 
+0006 
+0005 
+0006 
+0001 
+0002 
+0001 
+0002 
+0001 
+0002 
+22474 
+NCGE 0003 
+GEOGRAFÍA DE PANAMÁ 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+19133 
+03 
+01 
+15 
+0001 
+22474 
+22474 
+22474 
+22474 
+22474 
+22474 
+22474 
+22474 
+22474 
+22474 
+22474 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+18 
+18 
+06 
+06 
+0007 
+0005 
+0006 
+0001 
+0002 
+0001 
+0002 
+0001 
+0002 
+0005 
+0006 
+23689 
+DIS 
+1211 
+DISEÑO ARQUITECTONICO II 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 23687 DIS 1111 
+00041 
+03 
+01 
+02 
+0005 
+00041 
+23689 
+23689 
+23689 
+23689 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+16 
+16 
+17 
+0006 
+0007 
+0001 
+0002 
+0002 
+
+----------------------------------------------------- Page 5 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 5 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+PRIMER AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23690 
+ART 
+1202 
+GEOMETRIA DESCRIPTIVA Y DIGITAL 
+2 
+1 
+3 
+0 
+0 
+FUNDAMENTAL 
+05424 
+03 
+01 
+02 
+0005 
+05425 
+05424 
+05425 
+20997 
+23690 
+23690 
+23690 
+23690 
+23690 
+23690 
+23690 
+23690 
+23690 
+23690 
+23690 
+05494 
+05494 
+05495 
+05495 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+15 
+02 
+04 
+04 
+06 
+06 
+16 
+16 
+17 
+17 
+18 
+18 
+04 
+04 
+04 
+04 
+0005 
+0006 
+0006 
+0001 
+0007 
+0006 
+0005 
+0005 
+0006 
+0001 
+0002 
+0002 
+0001 
+0001 
+0002 
+0003 
+0004 
+0003 
+0004 
+23691 
+TEC 
+1213 
+INTRODUCCION A LA EDIFICACION 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+00057 
+03 
+01 
+02 
+0005 
+00057 
+23691 
+23691 
+23691 
+23691 
+23691 
+08845 
+08845 
+08846 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+17 
+17 
+16 
+16 
+09 
+13 
+09 
+0006 
+0007 
+0001 
+0002 
+0001 
+0002 
+0002 
+0001 
+0002 
+
+----------------------------------------------------- Page 6 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 6 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+PRIMER AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23692 
+FACD 1200 
+INTRODUCCION A LA INVESTIGACION 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+08919 
+03 
+01 
+02 
+0005 
+08920 
+08919 
+08920 
+23692 
+23692 
+23692 
+23692 
+23692 
+23692 
+23692 
+23692 
+23692 
+23692 
+23692 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+06 
+06 
+18 
+18 
+0005 
+0006 
+0006 
+0007 
+0006 
+0005 
+0001 
+0002 
+0002 
+0001 
+0005 
+0006 
+0001 
+0002 
+23730 
+FIS 
+1214 
+FISICA APLICADA 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+08797 
+03 
+01 
+02 
+0005 
+08852 
+08797 
+08852 
+23730 
+23730 
+23730 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+17 
+17 
+0006 
+0006 
+0005 
+0008 
+0001 
+0002 
+27407 
+HIST 166 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+27407 
+03 
+01 
+02 
+0007 
+27407 
+27407 
+27407 
+27407 
+27407 
+27407 
+27407 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+04 
+04 
+06 
+06 
+15 
+16 
+16 
+0005 
+0006 
+0005 
+0006 
+0001 
+0001 
+0002 
+
+----------------------------------------------------- Page 7 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 7 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+SEGUNDO AÑO VERANO ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22477 
+NCSOC 0006 
+SOCIEDAD MEDIO AMBIENTE Y DESARROLLO 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+00042 
+03 
+01 
+02 
+0005 
+00042 
+03524 
+03524 
+05474 
+05474 
+21606 
+22477 
+22477 
+22477 
+22477 
+22477 
+22477 
+22477 
+22477 
+22477 
+22477 
+22477 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+02 
+15 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+18 
+18 
+06 
+06 
+0006 
+0005 
+0006 
+0005 
+0006 
+0001 
+0007 
+0006 
+0005 
+0001 
+0002 
+0002 
+0001 
+0001 
+0002 
+0005 
+0006 
+23758 
+DIS 
+1311 
+TALLER DE DISEÑO ARQUITECTONICO I 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23688 
+ART 
+1102 
+23758 
+03 
+01 
+02 
+0007 
+23689 
+DIS 
+1211 
+23758 
+03 
+01 
+16 
+0001 
+23758 
+23758 
+23758 
+03 
+03 
+03 
+01 
+01 
+01 
+16 
+17 
+17 
+0002 
+0002 
+0001 
+23759 
+NC 
+00 
+OPTATIVA I 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+03019 
+03 
+01 
+02 
+0005 
+03019 
+23759 
+24243 
+24243 
+23759 
+23759 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+04 
+04 
+06 
+06 
+0006 
+0007 
+0005 
+0006 
+0005 
+0006 
+
+----------------------------------------------------- Page 8 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 8 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+SEGUNDO AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23697 
+DIS 
+2111 
+DISEÑO ARQUITECTONICO III 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23688 
+ART 
+1102 
+05430 
+03 
+01 
+02 
+0006 
+23689 
+DIS 
+1211 
+05430 
+03 
+01 
+02 
+0005 
+23697 
+23697 
+23697 
+23697 
+23697 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+02 
+16 
+16 
+17 
+17 
+0007 
+0001 
+0002 
+0002 
+0001 
+23698 
+TEC 
+2118 
+TOPOGRAFIA APLICADA 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+22482 
+NCMA 
+0011 
+11753 
+03 
+01 
+13 
+0001 
+23689 
+DIS 
+1211 
+23698 
+03 
+01 
+02 
+0007 
+23698 
+23698 
+23698 
+23698 
+09003 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+16 
+16 
+17 
+17 
+09 
+0001 
+0002 
+0001 
+0002 
+0002 
+23699 
+ART 
+2112 
+PERSPECTIVA MANUAL Y DIGITAL 
+2 
+1 
+3 
+0 
+0 
+FUNDAMENTAL 
+23688 
+ART 
+1102 
+05437 
+03 
+01 
+02 
+0005 
+23690 
+ART 
+1202 
+05437 
+03 
+01 
+02 
+0006 
+05436 
+23699 
+23699 
+23699 
+23699 
+23699 
+23699 
+23699 
+00051 
+00052 
+03542 
+03542 
+03543 
+03543 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+09 
+09 
+04 
+04 
+04 
+04 
+0006 
+0007 
+0006 
+0005 
+0001 
+0002 
+0002 
+0001 
+0002 
+0002 
+0003 
+0004 
+0003 
+0004 
+
+----------------------------------------------------- Page 9 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 9 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+SEGUNDO AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23700 
+TEC 
+2113 
+SISTEMAS CONSTRUCTIVOS BASICOS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23691 
+TEC 
+1213 
+00058 
+03 
+01 
+02 
+0005 
+00058 
+23700 
+23700 
+23700 
+23700 
+23700 
+11748 
+03511 
+03516 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+17 
+17 
+16 
+16 
+13 
+09 
+09 
+0006 
+0007 
+0001 
+0002 
+0001 
+0002 
+0001 
+0002 
+0002 
+23702 
+PLAN 2116 
+ESPACIOS ABIERTOS VECINALES 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23689 
+DIS 
+1211 
+03455 
+03 
+01 
+02 
+0005 
+03455 
+23702 
+23702 
+23702 
+23702 
+23702 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+16 
+16 
+17 
+17 
+0006 
+0007 
+0001 
+0002 
+0002 
+0001 
+23711 
+TEC 
+2117 
+MODELOS ESTRUCTURALES 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+22482 
+NCMA 
+0011 
+03566 
+03 
+01 
+02 
+0005 
+23730 
+FIS 
+1214 
+03566 
+03 
+01 
+02 
+0006 
+23711 
+23711 
+23711 
+23711 
+23711 
+11751 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+16 
+16 
+17 
+17 
+13 
+0007 
+0001 
+0002 
+0001 
+0002 
+0001 
+23715 
+ART 
+2105 
+ARTE Y DISEÑO:ANTIGUEDAD HASTA EL S.XVIII 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23687 
+DIS 
+1111 
+05422 
+03 
+01 
+02 
+0005 
+05422 
+20993 
+23715 
+23715 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+02 
+15 
+02 
+04 
+0006 
+0001 
+0007 
+0005 
+
+----------------------------------------------------- Page 10 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 10 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+SEGUNDO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23703 
+DIS 
+2211 
+DISEÑO ARQUITECTONICO IV 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23697 
+DIS 
+2111 
+05431 
+03 
+01 
+02 
+0005 
+23699 
+23700 
+ART 
+TEC 
+2112 
+2113 
+05431 
+23703 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23703 
+23703 
+23703 
+23703 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+16 
+16 
+17 
+17 
+0001 
+0002 
+0002 
+0001 
+23704 
+TEC 
+2218 
+TOPOGRAFIA DE CAMPO 
+1 
+0 
+2 
+0 
+0 
+REGULAR 
+23698 
+TEC 
+2118 
+09275 
+03 
+01 
+02 
+0005 
+09275 
+11754 
+09003 
+23704 
+23704 
+23704 
+23704 
+23704 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+13 
+09 
+02 
+16 
+16 
+17 
+17 
+0006 
+0001 
+0002 
+0007 
+0001 
+0002 
+0001 
+0002 
+23705 
+ART 
+2212 
+REPRESENTACION MANUAL Y DIGITAL I 
+2 
+1 
+3 
+0 
+0 
+FUNDAMENTAL 
+23699 
+ART 
+2112 
+01510 
+03 
+01 
+02 
+0005 
+01510 
+23705 
+23705 
+23705 
+23705 
+23705 
+23705 
+23705 
+03550 
+05579 
+05579 
+05578 
+05578 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+09 
+04 
+04 
+04 
+04 
+0006 
+0007 
+0006 
+0005 
+0001 
+0002 
+0002 
+0001 
+0002 
+0003 
+0004 
+0003 
+0004 
+
+----------------------------------------------------- Page 11 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 11 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+SEGUNDO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23708 
+TEC 
+2214 
+INST.PARA EDIF.DE BAJA DENSIDAD 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23700 
+TEC 
+2113 
+03564 
+03 
+01 
+02 
+0005 
+03564 
+03565 
+03565 
+23708 
+23708 
+23708 
+23708 
+23708 
+11749 
+11750 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+04 
+04 
+17 
+16 
+13 
+13 
+0006 
+0005 
+0006 
+0007 
+0006 
+0005 
+0001 
+0001 
+0001 
+0001 
+23717 
+ART 
+2205 
+ARTE Y DISEÑO MODERNO Y CONTEMP. 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23687 
+DIS 
+1111 
+05423 
+03 
+01 
+02 
+0005 
+05423 
+20999 
+23717 
+23717 
+23717 
+23717 
+23717 
+23717 
+23717 
+23717 
+23717 
+23717 
+23717 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+15 
+02 
+04 
+04 
+06 
+06 
+16 
+16 
+17 
+17 
+18 
+18 
+0006 
+0001 
+0007 
+0006 
+0005 
+0005 
+0006 
+0001 
+0002 
+0002 
+0001 
+0001 
+0002 
+23733 
+TEC 
+2217 
+ANALISIS ESTRUCTURAL 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23711 
+TEC 
+2117 
+03580 
+03 
+01 
+02 
+0005 
+03581 
+03580 
+03581 
+03567 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+0005 
+0006 
+0006 
+0005 
+
+----------------------------------------------------- Page 12 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 12 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+SEGUNDO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23760 
+TEC 
+2213 
+TECNOLOGIA DEL HORMIGON ARMADO 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23700 
+TEC 
+2113 
+03554 
+03 
+01 
+02 
+0005 
+03554 
+23760 
+23760 
+23760 
+23760 
+23760 
+11755 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+17 
+17 
+16 
+16 
+13 
+0006 
+0007 
+0001 
+0002 
+0001 
+0002 
+0001 
+TERCER AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23761 
+DIS 
+2311 
+TALLER DE DISEÑO ARQUITECTONICO II 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23703 
+DIS 
+2211 
+23761 
+03 
+01 
+02 
+0007 
+23705 
+23758 
+ART 
+DIS 
+2212 
+1311 
+23762 
+NC 
+00 
+OPTATIVA II 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+05474 
+03 
+01 
+02 
+0005 
+05475 
+05475 
+05474 
+24575 
+23762 
+23762 
+24575 
+23762 
+23762 
+23762 
+21623 
+23710 
+23710 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+04 
+06 
+02 
+04 
+06 
+18 
+18 
+15 
+16 
+16 
+0005 
+0006 
+0006 
+0006 
+0006 
+0007 
+0005 
+0005 
+0001 
+0002 
+0001 
+0001 
+0002 
+
+----------------------------------------------------- Page 13 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 13 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+TERCER AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23763 
+ARQ 
+2310 
+ELECTIVA I 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+23689 
+DIS 
+1211 
+00043 
+03 
+01 
+02 
+0005 
+23703 
+DIS 
+2211 
+00043 
+03 
+01 
+02 
+0006 
+23763 
+03 
+01 
+02 
+0007 
+TERCER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23736 
+TEC 
+3113 
+NUEVAS TECNOLOGIAS CONSTRUCTIVAS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23760 
+TEC 
+2213 
+03555 
+03 
+01 
+02 
+0005 
+03555 
+23736 
+23736 
+23736 
+11756 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+17 
+17 
+13 
+0006 
+0007 
+0001 
+0002 
+0001 
+23738 
+TEC 
+3114 
+INSTALACIONES PARA EDIF. MEDIANA DENSIDAD 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23708 
+TEC 
+2214 
+03572 
+03 
+01 
+02 
+0005 
+03572 
+03577 
+03577 
+23738 
+23738 
+23738 
+23738 
+23738 
+11757 
+11758 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+04 
+04 
+17 
+17 
+13 
+13 
+0006 
+0005 
+0006 
+0007 
+0005 
+0006 
+0001 
+0002 
+0001 
+0001 
+23764 
+DIS 
+3111 
+DISEÑO ARQUITECTONICO V 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23703 
+DIS 
+2211 
+05444 
+03 
+01 
+02 
+0005 
+23705 
+23708 
+ART 
+TEC 
+2212 
+2214 
+05444 
+23764 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23758 
+23760 
+DIS 
+TEC 
+1311 
+2213 
+
+----------------------------------------------------- Page 14 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 14 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+TERCER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23765 
+DIS 
+3101 
+COMPOSICION EN EL DISEÑO: TRADICION CLASICA 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+23703 
+DIS 
+2211 
+08854 
+03 
+01 
+02 
+0005 
+23715 
+ART 
+2105 
+08854 
+03 
+01 
+02 
+0006 
+21006 
+23765 
+23765 
+23765 
+23765 
+23765 
+23765 
+23765 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+15 
+02 
+04 
+04 
+06 
+06 
+18 
+18 
+0001 
+0007 
+0006 
+0005 
+0005 
+0006 
+0001 
+0002 
+23766 
+ART 
+3112 
+REPRESENTACIÓN MANUAL Y DIGITAL II 
+2 
+1 
+3 
+0 
+0 
+FUNDAMENTAL 
+23705 
+ART 
+2212 
+01511 
+03 
+01 
+02 
+0005 
+01511 
+23766 
+23766 
+23766 
+23712 
+23712 
+03551 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+04 
+04 
+16 
+16 
+09 
+0006 
+0007 
+0006 
+0005 
+0002 
+0001 
+0002 
+23767 
+ART 
+3120 
+TEORIA I:ANALISIS DE LA ARQUITECTURA 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23703 
+DIS 
+2211 
+00053 
+03 
+01 
+02 
+0005 
+23715 
+23717 
+ART 
+ART 
+2105 
+2205 
+00053 
+23767 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23768 
+ART 
+3115 
+ARQ: Y URBANISMO: ANTIGUEDAD A S.VIII 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23715 
+ART 
+2105 
+05438 
+03 
+01 
+02 
+0005 
+05438 
+23715 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+TERCER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23741 
+TEC 
+3213 
+SIST. CONST INDUSTRIALIZADOS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23736 
+TEC 
+3113 
+03507 
+03 
+01 
+02 
+0005 
+
+----------------------------------------------------- Page 15 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 15 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+TERCER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23742 
+TEC 
+3214 
+INSTALACIONES URBANAS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23738 
+TEC 
+3114 
+23742 
+03 
+01 
+02 
+0007 
+23742 
+23742 
+03 
+03 
+01 
+01 
+17 
+17 
+0001 
+0002 
+23769 
+DIS 
+3211 
+DISEÑO ARQUITECTONICO VI 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23736 
+TEC 
+3113 
+05445 
+03 
+01 
+02 
+0006 
+23764 
+23766 
+DIS 
+ART 
+3111 
+3112 
+05445 
+23769 
+03 
+03 
+01 
+01 
+02 
+02 
+0005 
+0007 
+23903 
+DIS 
+3201 
+COMPOSICION EN EL DISEÑO CONTEMPORANEO 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+23717 
+ART 
+2205 
+08855 
+03 
+01 
+02 
+0005 
+23764 
+23765 
+DIS 
+DIS 
+3111 
+3101 
+08855 
+21013 
+03 
+03 
+01 
+01 
+02 
+15 
+0006 
+0001 
+23903 
+23903 
+23903 
+23903 
+23903 
+23903 
+23903 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+04 
+04 
+06 
+06 
+18 
+18 
+0007 
+0006 
+0005 
+0005 
+0006 
+0001 
+0002 
+23904 
+PLAN 3221 
+URBANISMO Y DISEÑO URBANO 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+22477 
+NCSOC 
+0006 
+00044 
+03 
+01 
+02 
+0005 
+23764 
+DIS 
+3111 
+00044 
+03 
+01 
+02 
+0006 
+23904 
+03 
+01 
+02 
+0007 
+23905 
+ART 
+3220 
+TEORIA II:SIGNIFICADO DE LA ARQUITECTURA 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23767 
+ART 
+3120 
+00054 
+03 
+01 
+02 
+0005 
+00054 
+23905 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23906 
+ART 
+3215 
+ARQ. Y URBANISMO MODERNO Y CONTEMPORANEO 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23717 
+ART 
+2205 
+05439 
+03 
+01 
+02 
+0005 
+05439 
+23906 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+CUARTO AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+
+----------------------------------------------------- Page 16 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 16 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+CUARTO AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23907 
+DIS 
+3311 
+TALLER DE DISEÑO ARQUITECTONICO III 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23761 
+DIS 
+2311 
+23907 
+03 
+01 
+02 
+0007 
+23766 
+23769 
+23903 
+ART 
+DIS 
+DIS 
+3112 
+3211 
+3201 
+23908 
+TEC 
+3313 
+PRACTICA SUPERVISADA I: INSPECCION DE OBRAS 
+4 
+1 
+6 
+0 
+0 
+FUNDAMENTAL 
+23733 
+TEC 
+2217 
+23908 
+03 
+01 
+02 
+0007 
+23741 
+23742 
+TEC 
+TEC 
+3213 
+3214 
+23908 
+23908 
+03 
+03 
+01 
+01 
+17 
+17 
+0001 
+0002 
+23909 
+ARQ 
+3310 
+ELECTIVA II 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+23766 
+ART 
+3112 
+05475 
+03 
+01 
+02 
+0005 
+05475 
+23909 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+CUARTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23910 
+DIS 
+4111 
+DISEÑO ARQUITECTONICO VII 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23761 
+DIS 
+2311 
+05460 
+03 
+01 
+02 
+0005 
+23769 
+DIS 
+3211 
+05460 
+03 
+01 
+02 
+0006 
+23910 
+03 
+01 
+02 
+0007 
+23911 
+PLAN 4121 
+DISEÑO URBANO I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+23904 
+PLAN 
+3221 
+00045 
+03 
+01 
+02 
+0005 
+00045 
+23911 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23912 
+ART 
+4120 
+TEORIA III: INTERPRETACIONES DE LA ARQUITECTUR 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23905 
+ART 
+3220 
+00993 
+03 
+01 
+02 
+0005 
+23906 
+ART 
+3215 
+00993 
+03 
+01 
+02 
+0006 
+23912 
+03 
+01 
+02 
+0007 
+23913 
+ART 
+4115 
+ARQ. Y URBANISMO EN AMERICA LATINA 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23768 
+ART 
+3115 
+05452 
+03 
+01 
+02 
+0005 
+23906 
+ART 
+3215 
+05452 
+03 
+01 
+02 
+0006 
+23913 
+03 
+01 
+02 
+0007 
+23914 
+TEC 
+4113 
+SISTEMAS CONSTRUCTIVOS COMPLEJOS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23741 
+TEC 
+3213 
+03508 
+03 
+01 
+02 
+0005 
+03508 
+23914 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+
+----------------------------------------------------- Page 17 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 17 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+CUARTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23915 
+TEC 
+4117 
+DISEÑO ESTRUCTURAL SIMPLIFICADO 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23733 
+TEC 
+2217 
+00059 
+03 
+01 
+02 
+0005 
+00059 
+23915 
+23915 
+23915 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+02 
+02 
+17 
+17 
+0006 
+0007 
+0001 
+0002 
+23916 
+TEC 
+4114 
+INSTALACIONES PARA EDIFICIO DE ALTA DENSIDAD 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23742 
+TEC 
+3214 
+23916 
+03 
+01 
+02 
+0007 
+23916 
+23916 
+03 
+03 
+01 
+01 
+17 
+17 
+0001 
+0002 
+CUARTO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22478 
+NCFI 0007 
+TEORIA DE LA CIENCIA 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+23769 
+DIS 
+3211 
+25123 
+03 
+01 
+18 
+0001 
+25123 
+22478 
+22478 
+22478 
+22478 
+22478 
+22478 
+22478 
+22478 
+22478 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+18 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+06 
+06 
+0002 
+0008 
+0005 
+0006 
+0001 
+0002 
+0002 
+0001 
+0005 
+0006 
+23917 
+DIS 
+4211 
+DISEÑO ARQUITECTONICO VIII 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23910 
+DIS 
+4111 
+05461 
+03 
+01 
+02 
+0005 
+23911 
+23914 
+PLAN 
+TEC 
+4121 
+4113 
+05461 
+23917 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23916 
+TEC 
+4114 
+23918 
+ART 
+4223 
+MODELADO INTEGRADO DE PROY ARQUITECTONICOS 
+2 
+1 
+3 
+0 
+0 
+FUNDAMENTAL 
+23766 
+ART 
+3112 
+23726 
+03 
+01 
+16 
+0001 
+23910 
+DIS 
+4111 
+23726 
+03 
+01 
+16 
+0002 
+
+----------------------------------------------------- Page 18 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 18 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+CUARTO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23919 
+ART 
+4220 
+TEORIA IV:CRITICA DE LA ARQUITECTURA 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23912 
+ART 
+4120 
+00994 
+03 
+01 
+02 
+0005 
+23913 
+ART 
+4115 
+00994 
+03 
+01 
+02 
+0006 
+23919 
+03 
+01 
+02 
+0007 
+23920 
+ART 
+4215 
+ARQ. Y URBANISMO EN PANAMÁ 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23913 
+ART 
+4115 
+05453 
+03 
+01 
+02 
+0005 
+05453 
+23920 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23921 
+PLAN 4222 
+PROGRAMACION Y CONTROL DE PROYECTOS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23914 
+TEC 
+4113 
+03512 
+03 
+01 
+02 
+0005 
+03512 
+03514 
+03514 
+23921 
+23921 
+23921 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+02 
+02 
+17 
+17 
+0006 
+0005 
+0006 
+0007 
+0001 
+0002 
+23922 
+TEC 
+4217 
+ESTRUCTURAS ESPECIALES 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23915 
+TEC 
+4117 
+00060 
+03 
+01 
+02 
+0005 
+00060 
+23922 
+23922 
+23922 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+02 
+02 
+17 
+17 
+0006 
+0007 
+0001 
+0002 
+QUINTO AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23923 
+TEC 
+4313 
+PRACTICA SUPERVISADA II: RESIDENCIA DE OBRA 
+4 
+1 
+6 
+0 
+0 
+FUNDAMENTAL 
+23908 
+TEC 
+3313 
+23923 
+03 
+01 
+02 
+0007 
+23914 
+23915 
+TEC 
+TEC 
+4113 
+4117 
+23923 
+23923 
+03 
+03 
+01 
+01 
+17 
+17 
+0001 
+0002 
+23916 
+23921 
+TEC 
+PLAN 
+4114 
+4222 
+23924 
+PLAN 4321 
+TALLER DE URBANISMO 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23907 
+DIS 
+3311 
+23924 
+03 
+01 
+02 
+0007 
+23911 
+PLAN 
+4121 
+
+----------------------------------------------------- Page 19 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 19 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+QUINTO AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23925 
+ARQ 
+4310 
+ELECTIVA III 
+2 
+1 
+3 
+0 
+0 
+REGULAR 
+23914 
+TEC 
+4113 
+23925 
+03 
+01 
+02 
+0007 
+23916 
+TEC 
+4114 
+QUINTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22483 
+NC 
+0012 
+EMPRENDEDURISMO 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+23917 
+DIS 
+4211 
+25125 
+03 
+01 
+18 
+0001 
+22483 
+22483 
+22483 
+22483 
+22483 
+22483 
+22483 
+22483 
+22483 
+25125 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+06 
+06 
+18 
+0007 
+0005 
+0006 
+0001 
+0002 
+0001 
+0002 
+0005 
+0006 
+0002 
+22484 
+NCMI 0013 
+METODOLOGIA DE LA INVESTIGACION 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+23917 
+DIS 
+4211 
+25128 
+03 
+01 
+18 
+0001 
+22484 
+22484 
+22484 
+22484 
+22484 
+22484 
+22484 
+22484 
+22484 
+25128 
+21605 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+04 
+04 
+16 
+16 
+17 
+17 
+06 
+06 
+18 
+15 
+0007 
+0006 
+0005 
+0001 
+0002 
+0002 
+0001 
+0005 
+0006 
+0002 
+0001 
+
+----------------------------------------------------- Page 20 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 20 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+No_Acuerdo: 1-13 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA Turno : Diurno 
+Fecha Creación : 01-FEB-2013 
+Fecha Caduca : 
+QUINTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23926 
+PLAN 5124 
+GESTION PROFESIONAL 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23921 
+PLAN 
+4222 
+05482 
+03 
+01 
+02 
+0005 
+05482 
+23926 
+23926 
+23926 
+03 
+03 
+03 
+03 
+01 
+01 
+01 
+01 
+02 
+02 
+17 
+17 
+0006 
+0007 
+0001 
+0002 
+23927 
+DIS 
+5111 
+DISEÑO ARQUITECTONICO IX 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23907 
+DIS 
+3311 
+05478 
+03 
+01 
+02 
+0005 
+23917 
+23919 
+DIS 
+ART 
+4211 
+4220 
+05478 
+23927 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23922 
+TEC 
+4217 
+23928 
+PLAN 5121 
+DISEÑO URBANO II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+23911 
+PLAN 
+4121 
+03509 
+03 
+01 
+02 
+0005 
+03509 
+23928 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23929 
+TEC 
+5122 
+GESTION Y MANT DE EDIFICIOS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23921 
+PLAN 
+4222 
+23929 
+03 
+01 
+02 
+0007 
+23929 
+23929 
+03 
+03 
+01 
+01 
+17 
+17 
+0001 
+0002 
+23934 
+ARQ 
+5317 
+TRABAJO DE GRADUACION: TESIS 
+6 
+3 
+6 
+0 
+0 
+FUNDAMENTAL 
+23917 
+DIS 
+4211 
+03520 
+03 
+01 
+02 
+0005 
+23918 
+23919 
+ART 
+ART 
+4223 
+4220 
+03520 
+23934 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23920 
+23921 
+23922 
+23923 
+23924 
+23925 
+ART 
+PLAN 
+TEC 
+TEC 
+PLAN 
+ARQ 
+4215 
+4222 
+4217 
+4313 
+4321 
+4310 
+QUINTO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22481 
+NA 
+0010 
+INNOVACION CIENTIFICA Y TECNOLOGICA 
+2 
+2 
+1 
+0 
+0 
+REGULAR 
+22484 
+NCMI 
+0013 
+25122 
+03 
+01 
+18 
+0001 
+
+----------------------------------------------------- Page 21 -----------------------------------------------------
+Fecha: 
+31/08/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 21 de 21 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 03 ARQUITECTURA Y DISEÑO Escuela : 01 ARQUITECTURA. Carrera : 02 LIC. ARQUITECTURA. 
+Código del Plan: 0008 
+Fecha Creación : 01-FEB-2013 
+No_Acuerdo: 1-13 
+Fecha Caduca : 
+Fecha de Aprobación: 22/01/2013 
+Descripción : LICENCIATURA EN ARQUITECTURA 
+Título : LICENCIADA/LICENCIADO EN ARQUITECTURA 
+Turno : Diurno 
+QUINTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23930 
+ARQ 
+5210 
+PRACTICA LABORAL SUPERVISADA 
+2 
+0 
+6 
+0 
+0 
+FUNDAMENTAL 
+23918 
+ART 
+4223 
+05483 
+03 
+01 
+02 
+0005 
+23923 
+23926 
+TEC 
+PLAN 
+4313 
+5124 
+05483 
+23930 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23927 
+23928 
+23929 
+DIS 
+PLAN 
+TEC 
+5111 
+5121 
+5122 
+23931 
+DIS 
+5211 
+DISEÑO ARQUITECTONICO X 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+23914 
+TEC 
+4113 
+05479 
+03 
+01 
+02 
+0005 
+23927 
+DIS 
+5111 
+05479 
+03 
+01 
+02 
+0006 
+23931 
+03 
+01 
+02 
+0007 
+23932 
+PLAN 5216 
+ESPACIOS ABIERTOS URBANOS 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+23928 
+PLAN 
+5121 
+03573 
+03 
+01 
+02 
+0005 
+03573 
+23932 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 
+23933 
+PLAN 5221 
+GESTION URBANA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+23928 
+PLAN 
+5121 
+03510 
+03 
+01 
+02 
+0005 
+03510 
+23933 
+03 
+03 
+01 
+01 
+02 
+02 
+0006 
+0007 

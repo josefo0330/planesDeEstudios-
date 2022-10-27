@@ -1,0 +1,2921 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 1 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+Fecha Creación : 03-MAR-2010 
+No_Acuerdo: 2-10 
+Fecha Caduca : 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD 
+Turno : Diurno 
+PRIMER AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13755 
+AEORG 101 
+ADMINISTRACION I 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+05925 
+11 
+01 
+01 
+0001 
+13755 
+22858 
+22858 
+22858 
+21365 
+21365 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+03 
+03 
+03 
+14 
+14 
+0007 
+0001 
+0002 
+0003 
+0001 
+0002 
+13756 
+CON 
+102 
+CONTABILIDAD I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+06056 
+11 
+01 
+01 
+0001 
+13756 
+13756 
+13756 
+13756 
+22853 
+22853 
+21366 
+21366 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+03 
+03 
+14 
+14 
+0002 
+0004 
+0005 
+0006 
+0001 
+0002 
+0001 
+0002 
+13760 
+CONSI 106 
+SISTEMA DE INFORMACION CONTABLE I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13760 
+11 
+01 
+01 
+0002 
+13760 
+13760 
+13760 
+13760 
+13760 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+03 
+0004 
+0005 
+0006 
+0008 
+0001 
+21315 
+ESP 
+103 
+ESPAÑOL GENERAL 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+13757 
+11 
+01 
+01 
+0002 
+13757 
+13757 
+13757 
+21370 
+21370 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+14 
+14 
+0004 
+0005 
+0006 
+0001 
+0002 
+21316 
+ING 
+104 
+INGLES 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+13758 
+11 
+01 
+01 
+0002 
+13758 
+11 
+01 
+01 
+0004 
+
+----------------------------------------------------- Page 2 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 2 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+No_Acuerdo: 2-10 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD Turno : Diurno 
+Fecha Creación : 03-MAR-2010 
+Fecha Caduca : 
+PRIMER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21317 
+AE 
+105 
+LA ECONOMIA DE LA EMPRESA I 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+06057 
+11 
+01 
+01 
+0001 
+13759 
+13759 
+13759 
+13759 
+21367 
+21367 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+14 
+14 
+0002 
+0004 
+0005 
+0006 
+0001 
+0002 
+27406 
+RI 
+160 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+PRIMER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13761 
+AE 
+151 
+ADMINISTRACION II 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13755 
+AEORG 
+101 
+06093 
+11 
+01 
+01 
+0001 
+13761 
+13761 
+13761 
+13761 
+13761 
+21373 
+21373 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+01 
+14 
+14 
+0002 
+0004 
+0005 
+0006 
+0007 
+0001 
+0002 
+13762 
+CON 
+152 
+CONTABILIDAD II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+05931 
+11 
+01 
+01 
+0001 
+13762 
+13762 
+13762 
+13762 
+13762 
+21375 
+21375 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+01 
+14 
+14 
+0002 
+0004 
+0005 
+0006 
+0008 
+0001 
+0002 
+13766 
+CONSI 156 
+SISTEMA DE INFORMACION CONTABLE II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13760 
+CONSI 
+106 
+13766 
+11 
+01 
+01 
+0002 
+
+----------------------------------------------------- Page 3 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 3 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+No_Acuerdo: 2-10 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD Turno : Diurno 
+Fecha Creación : 03-MAR-2010 
+Fecha Caduca : 
+PRIMER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21318 
+GEO 
+153 
+GEOGRAFIA DE PANAMA 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+22474 
+11 
+01 
+03 
+0002 
+22474 
+22474 
+13820 
+11 
+11 
+11 
+01 
+01 
+01 
+03 
+03 
+01 
+0003 
+0001 
+0004 
+21319 
+AE 
+154 
+LA ECONOMIA DE LA EMPRESA II 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+21317 
+AE 
+105 
+06060 
+11 
+01 
+01 
+0001 
+13764 
+13764 
+13764 
+13764 
+21374 
+21374 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+14 
+14 
+0002 
+0004 
+0005 
+0006 
+0001 
+0002 
+21320 
+MAT 
+155 
+MATEMATICA 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+06058 
+11 
+01 
+01 
+0001 
+13765 
+13765 
+13765 
+13765 
+21369 
+21369 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+14 
+14 
+0002 
+0004 
+0005 
+0006 
+0001 
+0002 
+27408 
+RI 
+161 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+SEGUNDO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13767 
+CON 
+201 
+CONTABILIDAD III 
+4 
+4 
+0 
+0 
+0 
+REGULAR 
+I 
+13768 
+DER 
+202 
+DERECHO LABORAL APLICADO 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+I 
+13769 
+ESP 
+203 
+ESPANOL COMERCIAL 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+21315 
+ESP 
+103 
+05944 
+11 
+01 
+01 
+0001 
+13769 
+13769 
+13769 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+0002 
+0004 
+0005 
+
+----------------------------------------------------- Page 4 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 4 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+Fecha Creación : 03-MAR-2010 
+No_Acuerdo: 2-10 
+Fecha Caduca : 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD 
+Turno : Diurno 
+SEGUNDO AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13770 
+ING 
+204 
+INGLES COMERCIAL 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+21316 
+ING 
+104 
+05928 
+11 
+01 
+01 
+0001 
+13770 
+13770 
+13770 
+13770 
+13770 
+22852 
+21368 
+21368 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+01 
+03 
+14 
+14 
+0002 
+0004 
+0005 
+0006 
+0007 
+0001 
+0001 
+0002 
+13772 
+CON 
+206 
+METODOLOGIA DE ESTUDIO E INVEST CONTABLE I 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+06064 
+11 
+01 
+01 
+0001 
+13772 
+13772 
+13772 
+13772 
+13772 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0002 
+0004 
+0005 
+0006 
+0008 
+21321 
+CON 
+201 
+CONTABILIDAD DE SOCIEDADES I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+06062 
+11 
+01 
+01 
+0001 
+13762 
+CON 
+152 
+13767 
+11 
+01 
+01 
+0002 
+13767 
+13767 
+17698 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+0004 
+0005 
+0006 
+21322 
+CON 
+202 
+CONTABILIDAD LABORAL 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+I 
+06082 
+11 
+01 
+01 
+0001 
+13768 
+13768 
+13768 
+13768 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0002 
+0004 
+0005 
+0006 
+21323 
+MAT 
+205 
+MATEMATICAS FINANCIERAS APLICADAS 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+21320 
+MAT 
+155 
+13771 
+11 
+01 
+01 
+0006 
+06063 
+13771 
+13771 
+13771 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0001 
+0002 
+0004 
+0005 
+
+----------------------------------------------------- Page 5 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 5 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+No_Acuerdo: 2-10 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD Turno : Diurno 
+Fecha Creación : 03-MAR-2010 
+Fecha Caduca : 
+SEGUNDO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22486 
+NCMA 0015 
+MATEMATICA 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+I 
+23583 
+DER 
+207 
+DERECHO LABORAL APLICADO 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+13768 
+11 
+01 
+01 
+0006 
+23584 
+CON 
+202 
+CONTABILIDAD INTERMEDIA Y DE APLICACION I 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13762 
+CON 
+152 
+SEGUNDO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13776 
+EST 
+254 
+ESTADISTICA APLICADA AL COMERCIO 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+21320 
+MAT 
+155 
+06075 
+11 
+01 
+01 
+0001 
+21323 
+MAT 
+205 
+13776 
+11 
+01 
+01 
+0002 
+13776 
+13776 
+13776 
+13776 
+21385 
+21385 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+02 
+02 
+01 
+01 
+01 
+01 
+14 
+14 
+0004 
+0005 
+0006 
+0008 
+0001 
+0002 
+17691 
+CON 
+258 
+METODOLOGIA DE ESTUDIO E INVEST. CONTABLE II 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+13772 
+CON 
+206 
+06070 
+11 
+01 
+01 
+0001 
+17691 
+17691 
+17691 
+17691 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0004 
+0005 
+0006 
+0007 
+17694 
+CON 
+251 
+CONTABILIDA IV 
+3 
+2 
+2 
+0 
+REGULAR 
+I 
+13756 
+CON 
+102 
+13762 
+21321 
+CON 
+CON 
+152 
+201 
+21324 
+CON 
+251 
+CONTABILIDAD DE SOCIEDADES II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+06073 
+11 
+01 
+01 
+0001 
+13762 
+21321 
+CON 
+CON 
+152 
+201 
+13773 
+13773 
+11 
+11 
+01 
+01 
+01 
+01 
+0002 
+0004 
+13773 
+13773 
+11 
+11 
+01 
+01 
+01 
+01 
+0005 
+0006 
+21325 
+SOC 
+252 
+SOCIOLOGIA DE LA EMPRESA 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+06584 
+11 
+01 
+01 
+0001 
+
+----------------------------------------------------- Page 6 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 6 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+No_Acuerdo: 2-10 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD Turno : Diurno 
+Fecha Creación : 03-MAR-2010 
+Fecha Caduca : 
+SEGUNDO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21326 
+CNEC 253 
+SOCIEDAD,MEDIO AMBIENTE Y DESARROLLO SOSTENIBL 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+13755 
+AEORG 
+101 
+13775 
+11 
+01 
+01 
+0002 
+13761 
+AE 
+151 
+13775 
+11 
+01 
+01 
+0004 
+13775 
+13775 
+22477 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+03 
+0005 
+0006 
+0003 
+21327 
+HIST 255 
+HISTORIA DE PANAMA 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+13778 
+11 
+01 
+01 
+0005 
+13778 
+06170 
+13778 
+13778 
+06816 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0006 
+0001 
+0002 
+0004 
+0001 
+23585 
+CON 
+256 
+CONTABILIDAD INTERMEDIA Y DE APLICACION II 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+23584 
+CON 
+202 
+TERCER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13757 
+ESP 
+103 
+ESPANOL 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+I 
+13758 
+ING 
+104 
+INGLES GENERAL (ASPECTOS ECONOMICOS I) 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+I 
+13781 
+CON 
+302 
+CONTABILIDAD TRIBUTARIA I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+06077 
+11 
+01 
+01 
+0001 
+13766 
+CONSI 
+156 
+21328 
+CON 
+301 
+CONTABILIDAD DE COSTO I 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13756 
+CON 
+102 
+06084 
+11 
+01 
+01 
+0001 
+13762 
+21321 
+21324 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+13779 
+13779 
+13779 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+0002 
+0004 
+0005 
+13779 
+21391 
+21391 
+11 
+11 
+11 
+01 
+02 
+02 
+01 
+14 
+14 
+0006 
+0001 
+0002 
+21329 
+DER 
+313 
+FUNDAMENTOS DE DERECHO COMERCIAL Y TRIBUTARIO 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+I 
+06065 
+11 
+01 
+01 
+0001 
+13774 
+11 
+01 
+01 
+0002 
+
+----------------------------------------------------- Page 7 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 7 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+No_Acuerdo: 2-10 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD Turno : Diurno 
+Fecha Creación : 03-MAR-2010 
+Fecha Caduca : 
+TERCER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21330 
+CON 
+304 
+CONTABILIDAD Y CONTROL DE VALORES NEGOCIABLES 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+21331 
+AERH 305 
+CALIDAD TOTAL EN LOS RECURSOS HUMANOS 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+21317 
+AE 
+105 
+13784 
+11 
+01 
+01 
+0002 
+21319 
+AE 
+154 
+13784 
+11 
+01 
+01 
+0004 
+13784 
+13784 
+21331 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+0005 
+0006 
+0008 
+21332 
+CON 
+306 
+DISEÑO E INSTALACION DE SISTEMA DE CONTABILIDA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13760 
+CONSI 
+106 
+06074 
+11 
+01 
+01 
+0001 
+13766 
+CONSI 
+156 
+13777 
+11 
+01 
+01 
+0002 
+13777 
+13777 
+21332 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+0004 
+0005 
+0008 
+21333 
+CON 
+307 
+NORMAS INTERNACIONALES DE INFORMACION FINANCIE 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+06060 
+11 
+01 
+01 
+0001 
+23582 
+DER 
+313 
+DERECHO COMERCIAL Y FISCAL 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+TERCER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13788 
+CON 
+354 
+CONTABILIDAD TRIBUTARIA II 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13756 
+CON 
+102 
+13788 
+11 
+01 
+01 
+0002 
+13762 
+21321 
+21324 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+22865 
+22865 
+22865 
+11 
+11 
+11 
+01 
+01 
+01 
+03 
+03 
+03 
+0001 
+0002 
+0003 
+21334 
+CON 
+352 
+CONTABILIDAD DE COSTO II 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13756 
+CON 
+102 
+22869 
+11 
+01 
+03 
+0001 
+13762 
+21321 
+CON 
+CON 
+152 
+201 
+22869 
+22869 
+11 
+11 
+01 
+01 
+03 
+03 
+0002 
+0003 
+21324 
+21328 
+CON 
+CON 
+251 
+301 
+21335 
+CON 
+303 
+DISEÑO E INSTALACION DE SISTEMA DE CONTABILIDA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13760 
+CONSI 
+106 
+06080 
+11 
+01 
+01 
+0001 
+13766 
+21332 
+CONSI 
+CON 
+156 
+306 
+13782 
+13782 
+11 
+11 
+01 
+01 
+01 
+01 
+0002 
+0004 
+
+----------------------------------------------------- Page 8 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 8 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+No_Acuerdo: 2-10 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD Turno : Diurno 
+Fecha Creación : 03-MAR-2010 
+Fecha Caduca : 
+TERCER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21336 
+CON 
+365 
+NORMAS INTERNACIONALES DE AUDITORIA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+21337 
+CON 
+366 
+CONTABILIDAD DE SEGURO Y REASEGURO 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+06931 
+11 
+01 
+01 
+0001 
+13812 
+13812 
+13812 
+13812 
+21337 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0002 
+0004 
+0005 
+0006 
+0008 
+21338 
+CON 
+367 
+CONTABILIDAD BANCARIA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+06930 
+11 
+01 
+01 
+0001 
+13814 
+13814 
+13814 
+13814 
+21338 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0002 
+0004 
+0005 
+0006 
+0008 
+21339 
+AETUR 380 
+FOLCLORE Y TURISMO 
+2 
+1 
+3 
+0 
+0 
+REGULAR 
+21339 
+11 
+01 
+03 
+0001 
+21339 
+21339 
+11 
+11 
+01 
+01 
+03 
+03 
+0002 
+0003 
+CUARTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+12785 
+SEM1 
+SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 13755 
+AEORG 
+101 
+13756 
+13760 
+13761 
+13762 
+13766 
+13769 
+13770 
+13772 
+CON 
+CONSI 
+AE 
+CON 
+CONSI 
+ESP 
+ING 
+CON 
+102 
+106 
+151 
+152 
+156 
+203 
+204 
+206 
+
+----------------------------------------------------- Page 9 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 9 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+Fecha Creación : 03-MAR-2010 
+No_Acuerdo: 2-10 
+Fecha Caduca : 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD 
+Turno : Diurno 
+CUARTO AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+20486 
+MACO 702 
+CONTABILIDAD FISCAL Y LABORAL 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+21340 
+CON 
+355 
+CONTABILIDAD POR SISTEM INFORMATICOS I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+06085 
+11 
+01 
+01 
+0001 
+13762 
+21321 
+21324 
+21332 
+21335 
+CON 
+CON 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+306 
+303 
+13789 
+13789 
+13789 
+13789 
+21340 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+03 
+0002 
+0004 
+0005 
+0006 
+0001 
+21340 
+21340 
+11 
+11 
+01 
+01 
+03 
+03 
+0002 
+0003 
+21341 
+CON 
+351 
+AUDITORIA I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+13785 
+11 
+01 
+01 
+0002 
+13762 
+21321 
+21324 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+13785 
+13785 
+13785 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+0004 
+0005 
+0006 
+22866 
+22866 
+22866 
+11 
+11 
+11 
+01 
+01 
+01 
+03 
+03 
+03 
+0001 
+0002 
+0003 
+21342 
+CON 
+402 
+CONTABILIDAD ADMINISTRATIVA I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+13791 
+11 
+01 
+01 
+0002 
+13762 
+21321 
+21324 
+21328 
+21334 
+CON 
+CON 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+301 
+352 
+13791 
+13791 
+13791 
+21342 
+22875 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+03 
+0004 
+0005 
+0006 
+0008 
+0001 
+22875 
+22875 
+11 
+11 
+01 
+01 
+03 
+03 
+0002 
+0003 
+21343 
+CON 
+403 
+ANALISIS E INTERPRETACION DE ESTADOS FINANCIER 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13756 
+CON 
+102 
+13792 
+11 
+01 
+01 
+0002 
+13762 
+13781 
+13788 
+21321 
+CON 
+CON 
+CON 
+CON 
+152 
+302 
+354 
+201 
+13792 
+13792 
+13792 
+21343 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0004 
+0005 
+0006 
+0007 
+21324 
+CON 
+251 
+
+----------------------------------------------------- Page 10 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 10 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+No_Acuerdo: 2-10 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD Turno : Diurno 
+Fecha Creación : 03-MAR-2010 
+Fecha Caduca : 
+CUARTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21344 
+CON 
+353 
+CONTABILIDAD PUBLICA I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+13787 
+11 
+01 
+01 
+0002 
+13762 
+21321 
+21324 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+13787 
+13787 
+13787 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+0004 
+0005 
+0006 
+21344 
+22876 
+22876 
+22876 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+03 
+03 
+03 
+0008 
+0001 
+0002 
+0003 
+21345 
+CON 
+457 
+ALTERNATIVA DE GRADUACION 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+13788 
+CON 
+354 
+12786 
+11 
+01 
+03 
+0001 
+21334 
+21335 
+CON 
+CON 
+352 
+303 
+12786 
+12786 
+11 
+11 
+01 
+01 
+03 
+03 
+0002 
+0003 
+25714 
+MACO 
+751 
+CONTRALORIA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25720 
+MACO 
+757 
+GESTION DE AUDITORIA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25722 
+MACO 
+786 
+IMPUESTO DIRECTOS E INDIRECTOS 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+25731 
+MACO 
+758 
+CONTABILIDAD GUBERNAMENTAL 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+CUARTO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+12786 
+SEM2 
+SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+13755 
+AEORG 
+101 
+13756 
+13760 
+13761 
+13762 
+13766 
+13769 
+13770 
+13772 
+13776 
+CON 
+CONSI 
+AE 
+CON 
+CONSI 
+ESP 
+ING 
+CON 
+EST 
+102 
+106 
+151 
+152 
+156 
+203 
+204 
+206 
+254 
+
+----------------------------------------------------- Page 11 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 11 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+Fecha Creación : 03-MAR-2010 
+No_Acuerdo: 2-10 
+Fecha Caduca : 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD 
+Turno : Diurno 
+CUARTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL 13755 
+AEORG 
+101 
+13756 
+13760 
+13761 
+13762 
+13766 
+13769 
+13770 
+13772 
+13776 
+13781 
+13788 
+17691 
+21315 
+21316 
+21317 
+21318 
+21319 
+21320 
+21321 
+21323 
+21324 
+21325 
+21326 
+21327 
+21328 
+21330 
+21331 
+21332 
+21333 
+CON 
+CONSI 
+AE 
+CON 
+CONSI 
+ESP 
+ING 
+CON 
+EST 
+CON 
+CON 
+CON 
+ESP 
+ING 
+AE 
+GEO 
+AE 
+MAT 
+CON 
+MAT 
+CON 
+SOC 
+CNEC 
+HIST 
+CON 
+CON 
+AERH 
+CON 
+CON 
+102 
+106 
+151 
+152 
+156 
+203 
+204 
+206 
+254 
+302 
+354 
+258 
+103 
+104 
+105 
+153 
+154 
+155 
+201 
+205 
+251 
+252 
+253 
+255 
+301 
+304 
+305 
+306 
+307 
+
+----------------------------------------------------- Page 12 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 12 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+Fecha Creación : 03-MAR-2010 
+No_Acuerdo: 2-10 
+Fecha Caduca : 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD 
+Turno : Diurno 
+CUARTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13826 
+CON 
+TRABAJO DE GRADUACION 
+6 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+20488 
+MACO 
+704 
+CONTABILIDAD ADMINISTRATIVA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+20491 
+MACO 
+707 
+GESTION DE AUDITORIA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+20492 
+MACO 
+708 
+CONTROL GERENCIAL 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+21346 
+CON 
+405 
+CONTABILIDAD POR SISTEMAS INFORMATICOS II 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13756 
+CON 
+102 
+13794 
+11 
+01 
+01 
+0002 
+13762 
+21321 
+21324 
+21332 
+CON 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+306 
+13794 
+13794 
+13794 
+21346 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+0004 
+0005 
+0006 
+0008 
+21335 
+21340 
+CON 
+CON 
+303 
+355 
+21347 
+CON 
+401 
+AUDITORIA II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+13790 
+11 
+01 
+01 
+0002 
+13762 
+13781 
+13788 
+21321 
+21324 
+21328 
+21334 
+CON 
+CON 
+CON 
+CON 
+CON 
+CON 
+CON 
+152 
+302 
+354 
+201 
+251 
+301 
+352 
+13790 
+13790 
+13790 
+21347 
+22866 
+22866 
+22866 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+03 
+03 
+03 
+0004 
+0005 
+0006 
+0008 
+0001 
+0002 
+0003 
+21341 
+CON 
+351 
+21348 
+CON 
+452 
+CONTABILIDAD ADMINITRATIVA II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+13796 
+11 
+01 
+01 
+0002 
+13762 
+21321 
+21324 
+21328 
+21334 
+21342 
+CON 
+CON 
+CON 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+301 
+352 
+402 
+13796 
+13796 
+13796 
+21348 
+22880 
+22880 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+03 
+03 
+0004 
+0005 
+0006 
+0008 
+0001 
+0002 
+22880 
+11 
+01 
+03 
+0003 
+21349 
+CON 
+453 
+AUDITORIA DE SISTEMA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+21340 
+CON 
+355 
+21349 
+11 
+01 
+03 
+0001 
+21349 
+11 
+01 
+03 
+0002 
+
+----------------------------------------------------- Page 13 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 13 de 13 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 11 ADMON. DE EMPRESAS Y CONTABILIDAD Escuela : 01 CONTABILIDAD. 
+Carrera : 01 LIC. CONTABILIDAD 
+Código del Plan: 0007 
+Fecha Creación : 03-MAR-2010 
+No_Acuerdo: 2-10 
+Fecha Caduca : 
+Fecha de Aprobación: 23/02/2010 
+Descripción : LIC. CONTABILIDAD 
+Título : LICENCIADA/LICENCIADO EN CONTABILIDAD 
+Turno : Diurno 
+CUARTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21350 
+CON 
+455 
+ANALISIS E INTERPRETACION DE ESTADOS FINANCIER 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+13756 
+CON 
+102 
+13799 
+11 
+01 
+01 
+0002 
+13762 
+13781 
+13788 
+21321 
+21324 
+21328 
+21334 
+CON 
+CON 
+CON 
+CON 
+CON 
+CON 
+CON 
+152 
+302 
+354 
+201 
+251 
+301 
+352 
+13799 
+13799 
+13799 
+21350 
+21350 
+21350 
+21350 
+11 
+11 
+11 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+01 
+03 
+03 
+03 
+0004 
+0005 
+0006 
+0008 
+0001 
+0002 
+0003 
+21336 
+21343 
+CON 
+CON 
+365 
+403 
+21351 
+CON 
+456 
+CONTABILIDAD PUBLICA II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+13756 
+CON 
+102 
+17692 
+11 
+01 
+01 
+0005 
+13762 
+21321 
+21324 
+21344 
+CON 
+CON 
+CON 
+CON 
+152 
+201 
+251 
+353 
+17692 
+21351 
+22876 
+22876 
+11 
+11 
+11 
+11 
+01 
+01 
+01 
+01 
+01 
+01 
+03 
+03 
+0006 
+0008 
+0001 
+0002 
+22876 
+11 
+01 
+03 
+0003 
+21352 
+CON 
+457 
+ALTERNATIVA DE GRADUACION 
+6 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+13788 
+CON 
+354 
+22882 
+11 
+01 
+03 
+0001 
+21334 
+21335 
+CON 
+CON 
+352 
+303 
+22882 
+22882 
+11 
+11 
+01 
+01 
+03 
+03 
+0002 
+0003 
+25715 
+MACO 
+752 
+CONTABILIDAD FISCAL Y LABORAL 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25723 
+MACO 
+787 
+PLANIFICACION TRIBUTARIA 
+4 
+2 
+4 
+0 
+0 
+FUNDAMENTAL 
+29062 
+MC 
+701 
+CONTRALORIA 
+3 
+2 
+2 
+0 
+FUNDAMENTAL 
+29066 
+MC 
+705 
+CONTABILIDAD FISCAL Y LABORAL 
+3 
+2 
+2 
+0 
+FUNDAMENTAL 
+S0015 
+SEM 
+0015 
+EL CPA FRENTE AL AVANCE TECNOLOGICO 
+3 
+0 
+0 
+0 
+0 
+FUNDAMENTAL 
+S0019 
+SEM 
+0019 
+SEMINARIO DE CONTABILIDAD ADMINISTRATIVA 
+3 
+0 
+0 
+0 
+0 
+FUNDAMENTAL 

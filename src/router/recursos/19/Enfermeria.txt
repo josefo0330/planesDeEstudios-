@@ -1,0 +1,2660 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 1 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+No_Acuerdo: 9-13 
+Fecha de Aprobación: 15/07/2013 
+Fecha Creación : 28-OCT-2013 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA Turno : Diurno 
+PRIMER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21432 
+ENF 
+105 
+ASPECTOS HIST,FILOSOFICOS,ETICOS Y LEGALES EN 
+3 
+3 
+0 
+0 
+FUNDAMENTAL 
+13386 
+17 
+01 
+14 
+0001 
+13386 
+13386 
+17 
+17 
+01 
+01 
+02 
+14 
+0004 
+0002 
+21436 
+ENF 
+102 
+ENFERMERIA EN SALUD PUBLICA I 
+5 
+3 
+6 
+0 
+FUNDAMENTAL 
+13839 
+17 
+01 
+02 
+0004 
+13393 
+13400 
+13400 
+13393 
+17 
+17 
+17 
+17 
+01 
+01 
+01 
+01 
+14 
+14 
+14 
+14 
+0001 
+0001 
+0002 
+0002 
+22024 
+QM 
+105 
+QUIMICA ORGANICA 
+3 
+2 
+0 
+0 
+3 
+REGULAR 
+21433 
+17 
+01 
+02 
+0005 
+09444 
+17 
+01 
+02 
+0004 
+22478 
+NCFI 0007 
+TEORIA DE LA CIENCIA 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+22486 
+NCMA 0015 
+MATEMATICA 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+I 
+25418 
+17 
+01 
+02 
+0007 
+22494 
+NCCS 0023 
+INTRODUCION DE LA CIENCIA DE LA SALUD 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+21431 
+17 
+01 
+02 
+0005 
+21431 
+17 
+01 
+02 
+0006 
+22495 
+NCPS 0024 
+PSICOLOGIA APLICADA A LA CIENCIA DE LA SALUD 
+2 
+1 
+3 
+0 
+0 
+REGULAR 
+21430 
+17 
+01 
+02 
+0005 
+13832 
+17 
+01 
+02 
+0004 
+22496 
+NCBI 0025 
+BIOLOGIA MOLECULAR Y CELULAR 
+3 
+2 
+3 
+0 
+0 
+REGULAR 
+21435 
+17 
+01 
+02 
+0005 
+22026 
+13387 
+13387 
+17 
+17 
+17 
+01 
+01 
+01 
+02 
+14 
+02 
+0005 
+0001 
+0004 
+25418 
+NCMA 0016 
+MATEMATICA 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+21434 
+17 
+01 
+02 
+0005 
+13391 
+09457 
+22025 
+13391 
+17 
+17 
+17 
+17 
+01 
+01 
+01 
+01 
+14 
+02 
+02 
+14 
+0001 
+0004 
+0005 
+0002 
+PRIMER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+
+----------------------------------------------------- Page 2 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 2 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+No_Acuerdo: 9-13 
+Fecha de Aprobación: 15/07/2013 
+Fecha Creación : 28-OCT-2013 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA Turno : Diurno 
+PRIMER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21437 
+ZOO 
+270A 
+ANATOMIA Y FISIOLOGIA I 
+3 
+2 
+0 
+3 
+FUNDAMENTAL 
+22496 
+NCBI 
+0025 
+13830 
+17 
+01 
+02 
+0004 
+21438 
+ENF 
+103 
+FUNDAMENTOS DE ENFERMERIA 
+7 
+4 
+9 
+0 
+FUNDAMENTAL 
+21432 
+ENF 
+105 
+13840 
+17 
+01 
+02 
+0004 
+21436 
+22024 
+22495 
+22496 
+25418 
+ENF 
+QM 
+NCPS 
+NCBI 
+NCMA 
+102 
+105 
+0024 
+0025 
+0016 
+13395 
+13389 
+13404 
+13395 
+13389 
+17 
+17 
+17 
+17 
+17 
+01 
+01 
+01 
+01 
+01 
+14 
+14 
+14 
+14 
+14 
+0001 
+0001 
+0001 
+0002 
+0002 
+13404 
+17 
+01 
+14 
+0002 
+21441 
+ENF 
+101 
+MODELOS Y TEORIAS EN ENFERMERIA 
+3 
+3 
+0 
+0 
+FUNDAMENTAL 
+21432 
+ENF 
+105 
+22472 
+NCES 0001 
+LENGUAJE Y COMUNICACION EN ESPAÑOL 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+21439 
+17 
+01 
+02 
+0005 
+22027 
+13390 
+13390 
+13390 
+17 
+17 
+17 
+17 
+01 
+01 
+01 
+01 
+02 
+14 
+02 
+14 
+0005 
+0001 
+0004 
+0002 
+22476 
+NCIF 0005 
+INFORMATICA Y REDES DE APRENDIZAJE 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+22033 
+17 
+01 
+02 
+0005 
+22477 
+NCSOC 0006 
+SOCIEDAD MEDIO AMBIENTE Y DESARROLLO 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+21440 
+17 
+01 
+02 
+0005 
+22028 
+17 
+01 
+02 
+0005 
+22484 
+NCMI 0013 
+METODOLOGIA DE LA INVESTIGACION 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+21442 
+17 
+01 
+02 
+0005 
+22029 
+13829 
+17 
+17 
+01 
+01 
+02 
+02 
+0005 
+0004 
+SEGUNDO AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22473 
+NCHI 0002 
+HISTORIA DE PANAMA EN EL MUNDO GLOBAL 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+21459 
+17 
+01 
+02 
+0005 
+22474 
+NCGE 0003 
+GEOGRAFÍA DE PANAMÁ 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+21467 
+17 
+01 
+02 
+0005 
+22475 
+NCIN 0004 
+LENGUAJE Y COMUNICACION EN INGLES 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+22032 
+17 
+01 
+02 
+0005 
+13407 
+08079 
+17 
+17 
+01 
+01 
+14 
+02 
+0001 
+0004 
+
+----------------------------------------------------- Page 3 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 3 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+No_Acuerdo: 9-13 
+Fecha de Aprobación: 15/07/2013 
+Fecha Creación : 28-OCT-2013 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA Turno : Diurno 
+SEGUNDO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21445 
+ENF 
+203A 
+ENFERMERIA EN SALUD DE ADULTO I 
+9 
+4 
+12 
+3 
+FUNDAMENTAL 
+21437 
+ZOO 
+270A 
+13841 
+17 
+01 
+02 
+0004 
+21438 
+21441 
+22484 
+ENF 
+ENF 
+NCMI 
+103 
+101 
+0013 
+21446 
+ENF 
+201 
+NUTRICION 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+21438 
+ENF 
+103 
+09645 
+17 
+01 
+02 
+0004 
+22024 
+QM 
+105 
+21447 
+ZOO 
+270B 
+ANATOMIA Y FISIOLOGIA II 
+3 
+2 
+0 
+3 
+FUNDAMENTAL 
+21437 
+ZOO 
+270A 
+02505 
+17 
+01 
+02 
+0004 
+22496 
+NCBI 
+0025 
+21448 
+ENF 
+106 
+DESARROLLO HUMANO EN ENFERMERIA 
+3 
+3 
+0 
+0 
+FUNDAMENTAL 
+21432 
+ENF 
+105 
+13388 
+17 
+01 
+02 
+0004 
+21436 
+ENF 
+102 
+13388 
+17 
+01 
+14 
+0001 
+22495 
+NCPS 
+0024 
+21449 
+ENF 
+118 
+PRINCIPIOS Y METODOS DE ENSEÑANZA EN ENFERMERI 
+2 
+1 
+3 
+0 
+FUNDAMENTAL 
+21432 
+ENF 
+105 
+13401 
+17 
+01 
+02 
+0004 
+22476 
+NCIF 
+0005 
+13401 
+17 
+01 
+14 
+0001 
+22484 
+NCMI 
+0013 
+22031 
+ENF 
+204 
+ENFERMERIA EN EL CICLO DEL ADULTO 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+21436 
+ENF 
+102 
+21437 
+21438 
+21441 
+22484 
+ZOO 
+ENF 
+ENF 
+NCMI 
+270A 
+103 
+101 
+0013 
+SEGUNDO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21450 
+FAR 
+210 
+FARMACOLOGIA 
+3 
+2 
+3 
+0 
+FUNDAMENTAL 
+21437 
+ZOO 
+270A 
+08075 
+17 
+01 
+02 
+0004 
+21445 
+21446 
+21447 
+22024 
+22496 
+ENF 
+ENF 
+ZOO 
+QM 
+NCBI 
+203A 
+201 
+270B 
+105 
+0025 
+
+----------------------------------------------------- Page 4 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 4 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+SEGUNDO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21451 
+ENF 
+203B 
+ENFERMERIA EN SALUD DE ADULTO II 
+9 
+4 
+15 
+0 
+FUNDAMENTAL 
+21437 
+ZOO 
+270A 
+13842 
+17 
+01 
+02 
+0004 
+21445 
+21446 
+21447 
+21448 
+22031 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+203A 
+201 
+270B 
+106 
+204 
+21453 
+EST 
+105 
+BIOESTADISTICA 
+2 
+1 
+3 
+0 
+REGULAR 
+22476 
+NCIF 
+0005 
+08595 
+17 
+01 
+02 
+0004 
+22484 
+25418 
+NCMI 
+NCMA 
+0013 
+0016 
+21454 
+BIO 
+250 
+MICROBIOLOGIA CLINICA 
+4 
+3 
+0 
+3 
+FUNDAMENTAL 
+21437 
+ZOO 
+270A 
+09459 
+17 
+01 
+02 
+0004 
+21447 
+ZOO 
+270B 
+09460 
+17 
+01 
+02 
+0004 
+22496 
+25418 
+NCBI 
+NCMA 
+0025 
+0016 
+22030 
+ENF 
+231 
+CRECIMIENTO Y DESARROLLO 
+4 
+4 
+0 0 
+0 
+FUNDAMENTAL 
+21432 
+ENF 
+105 
+21443 
+17 
+01 
+02 
+0005 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+102 
+270A 
+103 
+101 
+203A 
+201 
+13398 
+13399 
+13404 
+13398 
+13399 
+13404 
+17 
+17 
+17 
+17 
+17 
+17 
+01 
+01 
+01 
+01 
+01 
+01 
+14 
+14 
+14 
+14 
+14 
+14 
+0001 
+0001 
+0001 
+0002 
+0002 
+0002 
+21447 
+21448 
+21449 
+22024 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+ZOO 
+ENF 
+ENF 
+QM 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+270B 
+106 
+118 
+105 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+
+----------------------------------------------------- Page 5 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 5 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+No_Acuerdo: 9-13 
+Fecha de Aprobación: 15/07/2013 
+Fecha Creación : 28-OCT-2013 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA Turno : Diurno 
+SEGUNDO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+27405 
+HIST 165 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+TERCER AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21455 
+HIST 205 
+ANTROPOLOGIA 
+2 
+2 
+0 
+0 
+REGULAR 
+02299 
+17 
+01 
+02 
+0004 
+13402 
+13751 
+17 
+17 
+01 
+01 
+14 
+02 
+0001 
+0004 
+21456 
+SOC 
+101 
+SOCIOLOGIA 
+2 
+2 
+0 
+0 
+REGULAR 
+13394 
+17 
+01 
+02 
+0004 
+13394 
+17 
+01 
+14 
+0001 
+27407 
+HIST 166 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+TERCER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21457 
+ENF 
+310 
+ENF. EN SALUD INFANTIL Y DE LA ADOLECENCIA 
+8 
+3 
+12 
+3 
+FUNDAMENTAL 21432 
+ENF 
+105 
+13844 
+17 
+01 
+02 
+0004 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+
+----------------------------------------------------- Page 6 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 6 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+TERCER AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21458 ENF 312 ENFERMERIA EN SALUD PUBLICA II 8 3 15 0 FUNDAMENTAL 21432 
+ENF 
+105 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+22484 
+22494 
+22495 
+22496 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+NCMI 
+NCCS 
+NCPS 
+NCBI 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+0013 
+0023 
+0024 
+0025 
+
+----------------------------------------------------- Page 7 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 7 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+TERCER AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21460 ENF 311 ENF. EN LA ATENCION DE SALUD INTEGRAL DE LA MU 8 3 12 3 FUNDAMENTAL 21432 
+ENF 
+105 
+13843 
+17 
+01 
+02 
+0004 
+21436 
+ENF 
+102 
+21430 
+17 
+01 
+02 
+0005 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+22484 
+22494 
+22495 
+22496 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+NCMI 
+NCCS 
+NCPS 
+NCBI 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+0013 
+0023 
+0024 
+0025 
+
+----------------------------------------------------- Page 8 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 8 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+TERCER AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21461 ENF 307 ENF. EN LA PROMOCION DE LA SALUD MENTAL 8 3 15 0 FUNDAMENTAL 21432 
+ENF 
+105 
+21430 
+17 
+01 
+02 
+0005 
+21436 
+ENF 
+102 
+13833 
+17 
+01 
+02 
+0004 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+22484 
+22494 
+22495 
+22496 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+NCMI 
+NCCS 
+NCPS 
+NCBI 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+0013 
+0023 
+0024 
+0025 
+
+----------------------------------------------------- Page 9 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 9 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+CUARTO AÑO VERANO ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+13406 
+HIST 
+150 
+FOLKLORE 
+3 
+3 
+0 
+0 
+0 
+OPTATIVA 
+13406 17 01 02 0004 
+21464 
+ENF 
+OPTATIVA 2 
+2 
+2 
+0 
+0 
+0 
+OPTATIVA 
+22498 
+NCEN 
+0027 
+OPTATIVA: GESTION EMPRENDEDORA EN SALUD 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22500 
+NCEN 
+0029 
+OPTATIVA: PREVENCION DE LA CONDUCTA ADICTIVA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22505 
+NC 
+0034 
+OPTATIVA: ENFERMEDADES TRANSMITIDAS POR ANIMAL 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22507 
+NCPS 
+0036 
+OPTATIVA: INTELIGENCIA EMOCIONAL 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22512 
+NC 
+0041 
+OPTATIVA: INTRODUCCIÓN A LA BIOTECNOLOGÍA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22513 
+NC 
+0042 
+OPTATIVA: MANEJO DE RESIDUOS PELIGROSOS. 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22514 
+NC 
+0043 
+OPTATIVA: LAS PLANTAS Y EL HOMBRE. 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22516 
+NC 
+0045 
+OPTATIVA: FLORA TÓXICA Y MEDICINAL. 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22517 
+NC 
+0046 
+OPTATIVA: CIENCIA, TECNOLOGÍA Y SOCIEDAD. 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22518 
+NC 
+0047 
+OPTATIVA: CERÁMICA 1 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22519 
+NC 
+0048 
+OPTATIVA: CERÁMICA 2 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22520 
+NC 
+0049 
+OPTATIVA: BOSQUEJO. 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22521 
+NC 
+0050 
+OPTATIVA: MODELADO 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22522 
+NC 
+0051 
+OPTATIVA: PRINCIPIOS DE COMPOSICIÓN Y COLOR 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22523 
+NC 
+0052 
+OPTATIVA FUNDAMENTOS DE ARQUITECTURA D COMPUTA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22524 
+NC 
+0053 
+OPTATIVA I::DISEÑO BÁSICO DE PÁGINAS WEB 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22525 
+NC 
+0054 
+OPTATIVAII: PROGR. BÁSICA ORIENTADA A OBJETO 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+22526 
+NC 
+0055 
+OPTATIVA:CONCEPTOS BÁSICOS DE DOMÓTICA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23844 
+NC 
+0056 
+COMUNICACIÓN INTERCULTURAL 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23845 
+NC 
+0057 
+MANEJO DE LA OPINIÓN PÚBLICA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23846 
+NC 
+0058 
+RÉGIMEN JURÍDICO DE LOS DERECHOS HUMANOS 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23847 
+NC 
+0059 
+ANÁLISIS DEL ENTORNO ECONÓMICO 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23848 
+NC 
+0060 
+EVALUACIÓN ECONÓMICA DE PROYECTOS 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23849 
+NC 
+0061 
+PROBLEMAS ECONÓMICOS NACIONALES 
+2 
+2 
+1 
+0 
+0 
+OPTATIVA 
+23850 
+NC 
+0062 
+FUNDAMENTOS FINANCIEROS 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23851 
+NC 
+0063 
+ESTADÍSTICA ECONÓMICA Y SOCIALES 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23852 
+NC 
+0064 
+ORIENTACIÓN Y DESAFÍOS ACTU DE L CIENCIAS SOCI 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23853 
+NC 
+0065 
+SEMINARIO DE INVESTIGACIÓN (2) 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+
+----------------------------------------------------- Page 10 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 10 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+No_Acuerdo: 9-13 
+Fecha de Aprobación: 15/07/2013 
+Fecha Creación : 28-OCT-2013 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA Turno : Diurno 
+CUARTO AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+23854 
+NC 
+0066 
+SEMINARIO DE INVESTIGACIÓN BIBLIOGRÁFIA I 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23855 
+NC 
+0067 
+EDUCACIÓN FÍSICA BÁSICA (A) 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23856 
+NC 
+0068 
+EDUCACIÓN FÍSICA BÁSICA (B) 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23857 
+NC 
+0069 
+VIOLENCIA DE GÉNERO Y DESARROLLO 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23858 
+NC 
+0070 
+PROTOCOLO Y ETIQUETA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23859 
+NC 
+0071 
+ADMINISTRACIÓN DE LAS ORGANIZACIONES 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23860 
+NC 
+0072 
+GESTIÓN DE LAS ORGANIZACIONES PÚBLICA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23861 
+NC 
+0073 
+SEGURIDAD HUMANA Y SEGURIDAD CIUDADANA 
+2 
+2 
+1 
+0 
+0 
+OPTATIVA 
+23862 
+NC 
+0074 
+TEATRO PARA LA ASERTIVIDAD PROFESIONAL 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23863 
+NC 
+0075 
+TALLERES DE DANZA 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+23864 
+NC 
+0076 
+EDUC PARA EL DES. ECONOMICO,SOCIAL Y CULTURAL 
+2 
+2 
+1 
+0 
+0 
+OPTATIVA 
+23865 
+NC 
+0077 
+EDUCACIÓN DESDE EL EJERCICIO PROFECIONAL 
+2 
+2 
+1 
+0 
+0 
+OPTATIVA 
+CUARTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+12785 
+SEM1 
+SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 21432 
+ENF 
+105 
+12785 
+17 
+01 
+02 
+0004 
+21436 
+ENF 
+102 
+12785 
+17 
+01 
+02 
+0005 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+
+----------------------------------------------------- Page 11 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 11 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+CUARTO AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21463 ENF 413A ENF. EN GESTION Y ADMINISTRACION I 8 3 15 0 FUNDAMENTAL 21432 
+ENF 
+105 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+21457 
+21458 
+21460 
+21461 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+ENF 
+ENF 
+ENF 
+ENF 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+310 
+312 
+311 
+307 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+
+----------------------------------------------------- Page 12 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 12 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+CUARTO AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21465 ENF 414 ENF EN LOS TRAST MENTALES Y DEL COMPORTAMIENT 6 3 9 0 FUNDAMENTAL 21432 
+ENF 
+105 
+13836 17 01 02 0004 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+21457 
+21458 
+21460 
+21461 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+ENF 
+ENF 
+ENF 
+ENF 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+310 
+312 
+311 
+307 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+
+----------------------------------------------------- Page 13 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 13 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+No_Acuerdo: 9-13 
+Fecha de Aprobación: 15/07/2013 
+Fecha Creación : 28-OCT-2013 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA Turno : Diurno 
+CUARTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+29196 
+ENF 
+580 TRABAJO DE GRADUACION I 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+CUARTO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+12786 
+SEM2 
+SEMINARIO COMO ALTERNATIVA DE TRABAJO DE GRAD 
+3 
+3 
+0 0 
+0 
+FUNDAMENTAL 12785 
+SEM1 
+12786 
+17 
+01 
+02 
+0004 
+21432 
+ENF 
+105 
+12786 
+17 
+01 
+02 
+0005 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+21457 
+21458 
+21460 
+21461 
+21463 
+21465 
+22024 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+ENF 
+ENF 
+ENF 
+ENF 
+ENF 
+ENF 
+QM 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+310 
+312 
+311 
+307 
+413A 
+414 
+105 
+
+----------------------------------------------------- Page 14 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 14 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+CUARTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+12787 PRA PRACTICA PROFESIONAL 6 3 0 0 0 FUNDAMENTAL 21432 
+ENF 
+105 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+21457 
+21458 
+21460 
+21461 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+ENF 
+ENF 
+ENF 
+ENF 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+310 
+312 
+311 
+307 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+
+----------------------------------------------------- Page 15 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 15 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+CUARTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21468 ENF 415 ENFERMERIA EN SALUD PUBLICA III 8 3 15 0 FUNDAMENTAL 21432 
+ENF 
+105 
+13838 17 01 02 0004 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+21457 
+21458 
+21460 
+21461 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+ENF 
+ENF 
+ENF 
+ENF 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+310 
+312 
+311 
+307 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+
+----------------------------------------------------- Page 16 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 16 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+CUARTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+21469 ENF 413B ENF. EN GESTION Y ADMINISTRACION II 8 3 15 0 FUNDAMENTAL 21432 
+ENF 
+105 
+13837 17 01 02 0004 
+21436 
+21437 
+21438 
+21441 
+21445 
+21446 
+21447 
+21448 
+21449 
+21450 
+21451 
+21453 
+21454 
+21455 
+21456 
+21457 
+21458 
+21460 
+21461 
+22024 
+22030 
+22031 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22478 
+ENF 
+ZOO 
+ENF 
+ENF 
+ENF 
+ENF 
+ZOO 
+ENF 
+ENF 
+FAR 
+ENF 
+EST 
+BIO 
+HIST 
+SOC 
+ENF 
+ENF 
+ENF 
+ENF 
+QM 
+ENF 
+ENF 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCFI 
+102 
+270A 
+103 
+101 
+203A 
+201 
+270B 
+106 
+118 
+210 
+203B 
+105 
+250 
+205 
+101 
+310 
+312 
+311 
+307 
+105 
+231 
+204 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0007 
+
+----------------------------------------------------- Page 17 -----------------------------------------------------
+Fecha: 
+20/07/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 17 de 17 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 17 ENFERMERIA 
+Escuela : 01 ENF (PRE-GRADO). 
+Carrera : 02 LIC. CIENCIAS DE ENFERMERIA 
+Código del Plan: 0007 
+Fecha Creación : 28-OCT-2013 
+No_Acuerdo: 9-13 
+Fecha Caduca : 
+Fecha de Aprobación: 15/07/2013 
+Descripción : LICENCIATURA EN CIENCIAS DE ENFERMERIA 
+Título : LICENCIADA/LICENCIADO EN CIENCIAS DE ENFERMERIA 
+Turno : Diurno 
+CUARTO AÑO SEGUNDO SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+29197 ENF 580B TRABAJO DE GRADUACION II 3 0 0 0 FUNDAMENTAL 

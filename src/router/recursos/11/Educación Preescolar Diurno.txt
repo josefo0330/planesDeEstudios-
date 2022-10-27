@@ -1,0 +1,965 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 1 de 5 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 13 CIENCIAS DE LA EDUCACION Escuela : 01 FORMACION PEDAGOGICA Carrera : 13 EDUCACION PREESCOLAR 
+Código del Plan: 0004 
+No_Acuerdo: 6-14 
+Fecha de Aprobación: 24/07/2014 
+Fecha Creación : 31-JUL-2014 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN EDUCACIÓN PREESCOLAR 
+Título : LICENCIADA/LICENCIADO EN EDUCACIÓN PREESCOLAR Turno : Diurno 
+PRIMER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+09401 
+EDU 
+101 
+INTRODUCCION A LAS CIENCIAS DE LA EDUCACION 
+3 
+0 
+0 
+0 
+0 
+REGULAR 
+22472 
+NCES 0001 
+LENGUAJE Y COMUNICACION EN ESPAÑOL 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+22475 
+NCIN 0004 
+LENGUAJE Y COMUNICACION EN INGLES 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+22477 
+NCSOC 0006 
+SOCIEDAD MEDIO AMBIENTE Y DESARROLLO 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+23857 
+NC 
+0069 
+VIOLENCIA DE GÉNERO Y DESARROLLO 
+2 
+0 
+0 
+0 
+0 
+OPTATIVA 
+24554 
+DITEC 102 
+PRÁCTICA EN EL AULA PREESCOLAR I 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+25450 
+PSIPE 103 
+PSICOPEDAGOGÍA DEL DESARROLLO 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+25494 
+FAECO 219 
+EMPRENDIMIENTO EN EDUCACIÓN 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+27405 
+HIST 165 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+PRIMER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22473 
+NCHI 0002 
+HISTORIA DE PANAMA EN EL MUNDO GLOBAL 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+22474 
+NCGE 0003 
+GEOGRAFÍA DE PANAMÁ 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+22476 
+NCIF 0005 
+INFORMATICA Y REDES DE APRENDIZAJE 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+24555 
+PSIPE 202 
+CRECIMIENTO,DES. Y APREND. DEL NIÑO DE O-3 AÑ 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+25450 
+PSIPE 
+103 
+24683 
+DESD 104 
+FUNDAMENTOS DE LA EDUCACIÓN PREESCOLAR 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+09401 
+EDU 
+101 
+25452 
+MAT 
+105 
+PRINCIPIOS DE MATEMÁTICA EN LA EDUCACIÓN INICI 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+25453 
+ESP 
+106 
+ESPAÑOL APLICADO A LA EDUCACIÓN INICIAL 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+SEGUNDO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22490 
+NCED 0019 
+ATENCION A LA DIVERSIDAD 
+2 
+2 
+0 
+0 
+0 
+REGULAR 
+24096 
+EVIN 201 
+FUNDAMENTOS DE EVALUACIÓN EDUCATIVA 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+24185 
+DESED 100 
+INTRODUCIÓN A LAS CIENCIAS DE LA EDUCACIÓN 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+24684 
+PSIPE 202 
+CRECIMIENTO DESLL Y APREND DEL NIÑO DE 4-6 AÑO 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+24555 
+PSIPE 
+202 
+24685 
+DIDTE 204 
+MODELOS Y ENFOQUES DIDÁCTICOS EN PREESCOLAR 
+3 
+3 
+0 
+0 
+0 
+REGULAR 
+
+----------------------------------------------------- Page 2 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 2 de 5 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 13 CIENCIAS DE LA EDUCACION Escuela : 01 FORMACION PEDAGOGICA Carrera : 13 EDUCACION PREESCOLAR 
+Código del Plan: 0004 
+No_Acuerdo: 6-14 
+Fecha de Aprobación: 24/07/2014 
+Fecha Creación : 31-JUL-2014 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN EDUCACIÓN PREESCOLAR 
+Título : LICENCIADA/LICENCIADO EN EDUCACIÓN PREESCOLAR Turno : Diurno 
+SEGUNDO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+24687 
+PSIPE 205 
+PSICOMOTRICIDAD EN EL NIÑO 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+25188 
+DESD 203 
+EVOL HIST. DE LA EDUC. INICIAL EN PANAMÁ 
+3 
+3 
+2 
+0 
+0 
+REGULAR 
+25189 
+DITEC 200 
+PRACTICA EN EL AULA PREESCOLAR II 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+24554 
+DITEC 
+102 
+27407 
+HIST 166 
+HIST DE LAS RELACIONES DE PMA CON LOS E.E.U.U. 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+SEGUNDO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+24193 
+DEDED 201 
+EVOLUCIÓN DE LA EDUCACIÓN EN PANAMÁ 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+24686 
+DIDTE 209 
+TECNOLOGÍA EDUCATIVA EN PREESCOLAR 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+25455 
+ENF 
+206 
+ATENCIÓN Y CUIDADO DEL NIÑO 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+25456 
+ING 
+207 
+INGLES I PARA EDUCACIÓN INICIAL 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+25457 
+EDFIS 208 
+EDUCACIÓN FÍSICA Y EDUC A TRAVÉS DEL MOVIMIENT 
+2 
+0 
+4 
+0 
+0 
+REGULAR 
+25458 
+CURRI 210 
+BASE TEÓRICAS DEL CURRICULUM EN PREESCOLAR 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25459 
+DITEC 211 
+DIDÁCTICA DE LA LITERATURA INFANTIL EN PREESCO 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+24685 
+DIDTE 
+204 
+25460 
+PISPE 212 
+DESARR COGNITIVO Y SOCIO-LINGUIST DEL NIÑO D P 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+24684 
+PSIPE 
+202 
+TERCER AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+25454 
+B.A 
+118 
+TALLER DE MÚSICA 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+25461 
+B.A. 217 
+TALLER DE TEATRO 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+26182 
+DITEC 214 
+TENDE ACT E LA DISPOS DIDAC D AUL EDUC PREESCO 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+26183 
+DITEC 214 
+EL JUEGO DIDAC C ESTRAT P EL APREN EDUC INICIA 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+TERCER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+
+----------------------------------------------------- Page 3 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 3 de 5 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 13 CIENCIAS DE LA EDUCACION Escuela : 01 FORMACION PEDAGOGICA Carrera : 13 EDUCACION PREESCOLAR 
+Código del Plan: 0004 
+No_Acuerdo: 6-14 
+Fecha de Aprobación: 24/07/2014 
+Fecha Creación : 31-JUL-2014 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN EDUCACIÓN PREESCOLAR 
+Título : LICENCIADA/LICENCIADO EN EDUCACIÓN PREESCOLAR Turno : Diurno 
+TERCER AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+25190 
+25191 
+25192 
+25463 
+CURRI 213 
+DICTE 214 
+DICTE 304 
+DITEC 300 
+BASES TEÓRICAS DEL CURRICULUM EN PREESCOLAR DID. DE LA LITERATURA INFANTIL EN PREESCOLAR ELABORAC DE MATERIALES EN PREESCO Y REC. DIDAC PRÁCTICA EN EL AULA PREESCOLAR III 
+3 
+3 
+3 
+2 
+2 
+2 
+2 
+1 
+4 
+2 
+2 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+REGULAR 
+REGULAR 
+REGULAR 
+FUNDAMENTAL 
+I 
+I 
+I 
+24554 
+DITEC 
+102 
+25189 
+DITEC 
+200 
+25464 
+DITEC 301 
+METODOLOGÍA JUEGO TRABAJO I 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+25465 
+CURRI 302 
+PLANEAM Y DESARR DEL CURRI EN LA EDUC PREESCOL 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25458 
+CURRI 
+210 
+25466 
+DITEC 303 
+ESTRATEGIAS PARA EL DESARR DEL PENSAMIE LÓGIC 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+25467 
+DITEC 304 
+ELABORACIÓN DE MATERIAL EN PREESCO Y RECUR DID 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+25468 
+EVIN 305 
+EVALUACIÓN EN LA EDUCACIÓN PREESCOLAR 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+24096 
+EVIN 
+201 
+25469 
+DITBA 306 
+DIDÁCTICA DE LAS EXPRESIONES ARTÍSTICAS EN PRE 
+3 
+1 
+4 
+0 
+0 
+FUNDAMENTAL 
+24685 
+DIDTE 
+204 
+25470 
+ING 
+307 
+INGLES II PARA EDUCACIÓN INICIAL 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+25456 
+ING 
+207 
+TERCER AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+22484 
+NCMI 0013 
+METODOLOGIA DE LA INVESTIGACION 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+25471 
+DITEC 308 
+METODOLGÍA JUEGO TRABAJO II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25464 
+DITEC 
+301 
+25472 
+PSIPE 309 
+ATENCIÓN DEL NIÑO CON NEE EN PREESCOLAR 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+25473 
+DITEC 310 
+DIDÁCTI PARA EL DESARR DE LOS PROCES COMUNI EN 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+24685 
+DIDTE 
+204 
+25474 
+INF 
+311 
+USO DE LAS TIC EN LA EDUCACIÓN INICIAL I 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+25475 
+DITEC 312 
+PRÁCTICA EN EL AULA PREESCOLAR IV 
+3 
+2 
+4 
+0 
+0 
+REGULAR 
+25463 
+DITEC 
+300 
+25476 
+ENF 
+313 
+SALUD E HIGIENE DEL NIÑO 
+2 
+1 
+2 
+0 
+0 
+REGULAR 
+CUARTO AÑO 
+VERANO 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+26184 
+DITEC 322 
+POLIT PUBL NACIO E INTERN EN MATER EDUC INICIA 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+26185 
+DITEC 322 
+DESARR DE CREATIV P NIÑOS Y NIÑAS DE EDA PREES 
+2 
+1 
+2 
+0 
+0 
+OPTATIVA 
+
+----------------------------------------------------- Page 4 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 4 de 5 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 13 CIENCIAS DE LA EDUCACION Escuela : 01 FORMACION PEDAGOGICA Carrera : 13 EDUCACION PREESCOLAR 
+Código del Plan: 0004 
+Fecha Creación : 31-JUL-2014 
+No_Acuerdo: 6-14 
+Fecha Caduca : 
+Fecha de Aprobación: 24/07/2014 
+Descripción : LICENCIATURA EN EDUCACIÓN PREESCOLAR 
+Título : LICENCIADA/LICENCIADO EN EDUCACIÓN PREESCOLAR 
+Turno : Diurno 
+CUARTO AÑO PRIMER SEMESTRE ------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+25479 
+EVIN 316 
+INVESTIGACIÓN EDUCATIVA I 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+22484 
+NCMI 
+0013 
+25480 
+ADMSU 317 
+ADMINISTRACIÓN DE CENTROS DE EDUCACIÓN INICIA 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25481 
+DESD 318 
+PEDAGOGÍA Y PRÁCTICA DE LOS VALORES EN INICIA 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+25482 
+ING 
+319 
+INGLES III PARA LA EDUCACIÓN INICIAL 
+2 
+2 
+2 
+0 
+0 
+REGULAR 
+25470 
+ING 
+307 
+25483 
+ORIEN 320 
+ORIENT PERSO Y SOCIA P PADRES Y DOCEN EN EDUC 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25484 
+EDUC. 321 
+TRABAJO DE GRADUACIÓN I 
+6 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+09401 
+EDU 
+101 
+22472 
+22473 
+22474 
+22475 
+22476 
+22477 
+22490 
+24096 
+24554 
+24555 
+24684 
+24685 
+24686 
+24687 
+25188 
+25189 
+25450 
+25452 
+25453 
+25455 
+25456 
+25457 
+25458 
+25459 
+NCES 
+NCHI 
+NCGE 
+NCIN 
+NCIF 
+NCSOC 
+NCED 
+EVIN 
+DITEC 
+PSIPE 
+PSIPE 
+DIDTE 
+DIDTE 
+PSIPE 
+DESD 
+DITEC 
+PSIPE 
+MAT 
+ESP 
+ENF 
+ING 
+EDFIS 
+CURRI 
+DITEC 
+0001 
+0002 
+0003 
+0004 
+0005 
+0006 
+0019 
+201 
+102 
+202 
+202 
+204 
+209 
+205 
+203 
+200 
+103 
+105 
+106 
+206 
+207 
+208 
+210 
+211 
+
+----------------------------------------------------- Page 5 -----------------------------------------------------
+Fecha: 
+22/10/2020 
+U N I V E R S I D A D D E P A N A M Á 
+DIRECCIÓN DE INFORMÁTICA 
+Pagina 5 de 5 
+rplanes3.rdf 
+PLANES DE ESTUDIO 
+Facultad: 13 CIENCIAS DE LA EDUCACION Escuela : 01 FORMACION PEDAGOGICA Carrera : 13 EDUCACION PREESCOLAR 
+Código del Plan: 0004 
+No_Acuerdo: 6-14 
+Fecha de Aprobación: 24/07/2014 
+Fecha Creación : 31-JUL-2014 
+Fecha Caduca : 
+Descripción : LICENCIATURA EN EDUCACIÓN PREESCOLAR 
+Título : LICENCIADA/LICENCIADO EN EDUCACIÓN PREESCOLAR Turno : Diurno 
+CUARTO AÑO 
+PRIMER SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+25485 
+DITEC 400 
+DIDÁCTICAS DE LAS ACTIVIDADES LÚDICAS 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+24685 DIDTE 204 
+CUARTO AÑO 
+SEGUNDO SEMESTRE 
+------ H O R A S ------- 
+Asignatura Equivalente 
+Asig. AbrevNum Nombre cred Teo. Prac Clin Lab. TipoMateria Estatus Prerre Abrev Num. Cod.Equiv. FacE EscE CarE PlanE 
+25193 
+EVIN 308 
+INVESTIGACIÓN EDUCATIVA I 
+3 
+2 
+2 
+0 
+0 
+REGULAR 
+I 
+25486 
+EVIN 401 
+INVESTIGACIÓN EDUCATIVA II 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25487 
+EDUC 400 
+TRABAJO DE GRADUACIÓN II 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+25488 
+DITEC 402 
+INNOVACIONES PEDAGO Y DIDACT EN EDUC INICIAL 
+3 
+2 
+2 
+0 
+0 
+FUNDAMENTAL 
+25489 
+CURRI 403 
+PROGRAMAS DE EDUCACIÓN INICIAL NO FORMAL 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+25490 
+ING 
+404 
+INGLES IV PARA EDUCACIÓN INICIAL 
+2 
+1 
+2 
+0 
+0 
+FUNDAMENTAL 
+25491 
+ADMSU 411 
+PLANIFICACIÓN DE PROYECTO DE CENTRO 
+3 
+3 
+0 
+0 
+0 
+FUNDAMENTAL 
+25492 
+DITGL 405 
+DIDÁCTICA DEL INGLÉS EN EDUCACIÓN INICIAL 
+3 
+1 
+4 
+0 
+0 
+FUNDAMENTAL 
+25493 
+EDUC 406 
+PROYECTO EDUCATIVO INTEGRAL EN EDUCACIÓN INIC 
+3 
+1 
+4 
+0 
+0 
+FUNDAMENTAL 
+26420 
+MDS 
+710 
+FUNDAMENTOS Y TENDENCIAS DE EDUCA SUPERIOR 
+3 
+2 
+3 
+0 
+0 
+FUNDAMENTAL 
+26422 
+MDS 
+712 
+ADMINISTRACIÓN DE LA EDUCACIÓN SUPERIOR 
+3 
+2 
+3 
+0 
+0 
+FUNDAMENTAL 
